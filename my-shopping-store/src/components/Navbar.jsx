@@ -8,7 +8,7 @@ const Navbar = () => {
     <div className="main-container">
 
       <div className="left">
-      <h2>Shopper Stop</h2>
+      <h1>Shopper Stop</h1>
      </div>
      <div className="center">
       <div className="name-section">

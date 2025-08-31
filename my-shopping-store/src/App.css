@@ -1,9 +1,11 @@
 .main-container{
   display: flex;
 
-  border: 2px solid black;
+  
   justify-content: space-around;
 }
+
+
 
 .list-section{ 
  display: flex;
@@ -24,7 +26,17 @@
 }
 .right button{
   padding:5px;
+  color:white;
+  background-color: black;
+  border: 1px solid white;
+
+  
 }
 .sign-up-btn{
   margin-right: 10px;
+}
+
+.banner img{
+  margin-top: 10px;
+  width: 100%;
 }

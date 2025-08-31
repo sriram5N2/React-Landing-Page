@@ -1,3 +1,7 @@
+body{
+  margin: 0;
+  
+}
 .main-container{
   display: flex;
 
@@ -39,4 +43,19 @@
 .banner img{
   margin-top: 10px;
   width: 100%;
+}
+.women-banner img{
+  width:100%
+}
+.Men-images{
+  display: flex;
+  width: 180px;
+  height: 250px;
+  gap: 30px;
+}
+.one-unit img{
+  width: 220px;
+  height: 250px;
+  
+
 }

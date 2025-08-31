@@ -49,13 +49,29 @@ body{
 }
 .Men-images{
   display: flex;
-  width: 180px;
-  height: 250px;
   gap: 30px;
 }
-.one-unit img{
-  width: 220px;
-  height: 250px;
-  
+.box img{
+   width: 250px;
+  height: 280px;
 
 }
+.box h3{
+  text-align: center;
+}
+.buy-now-btn{
+  display: block;
+  margin: 0 auto;
+ color: white;
+ background-color: rgba(0, 145, 255, 0.888);
+ border: none;
+ height: 40px;
+ width: 80px;
+ margin-bottom: 10px;
+ cursor: pointer;
+ font-size: 15px;
+
+}
+
+
+

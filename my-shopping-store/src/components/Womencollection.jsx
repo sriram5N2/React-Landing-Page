@@ -6,10 +6,12 @@ const Womencollection = (props) => {
   return (
     <div className='Collections'>
 
-       <h2>{title}</h2>
+       
        <div className="women-banner">
           <img  src='../assets/LadiesBanner.gif' alt='Ladies-Banner'/>
        </div>
+       
+       <h2>{title}</h2>
 
        <div className='Men-images'>
 
